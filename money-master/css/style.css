@@ -1,0 +1,16 @@
+.bg-color{
+    background-color:rgba(214, 243, 243, 0.712);
+}
+
+.input-bg1{
+    background-color: rgb(232 216 216 / 35%);
+    border-radius: 5%;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.input-bg2{
+    width:120px;
+    height: 40px;
+}
+
